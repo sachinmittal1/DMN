@@ -5,12 +5,15 @@ Steps to follow
 
 ```
 Put 2 sentences in pyscrips/sentences.txt
-run tokencreater.py (python tokencreater.py)
-mvn -q compile exec:java (in main folder)
+Step1: run tokencreater.py (python tokencreater.py)
+Step2: mvn -q compile exec:java (in root folder)
+
+Alternatively, You can use run.sh which takes apache-maven path argument
+
 
 ```
 
-$ ./run.sh 
+$ ./run.sh /Users/nidhi/Downloads/apache-maven-3.6.3/bin
 
 Sent1 =  "On June 10 , the ship 's owners had published an advertisement on the Internet , offering the explosives for sale ."
 
