@@ -6,7 +6,7 @@ Steps to follow
 ```
 Put 2 sentences in pyscrips/sentences.txt
 Step1: run tokencreater.py (python tokencreater.py)
-Step2: mvn -q compile exec:java (in root folder)
+Step2: mvn -q compile exec:java (in root folder (where pom.xml lies))
 
 Alternatively, You can use run.sh which takes apache-maven path argument
 
