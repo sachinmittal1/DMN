@@ -13,11 +13,11 @@ Alternatively, You can use run.sh which takes apache-maven path argument
 
 ```
 
-$ ./run.sh /Users/nidhi/Downloads/apache-maven-3.6.3/bin
+```
+### $ ./run.sh /Users/nidhi/Downloads/apache-maven-3.6.3/bin
 
 Sent1 =  "On June 10 , the ship 's owners had published an advertisement on the Internet , offering the explosives for sale ."
 
-----------------------------------------
 Sent2 =  "They had published an advertisement on the Internet on June 10 , offering the cargo for sale , he added ."
 
 WARNING:tensorflow:From /Users/nidhi/Desktop/ipsoft/pyscrips/tokenization.py:126: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
@@ -46,7 +46,7 @@ Java TensorFlow Version = 1.15.0
 
 
 Given senetences are simmilar with probability - 0.90365493
-
+```
 
 
 
