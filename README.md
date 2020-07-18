@@ -4,7 +4,7 @@ simple code for bert [BERT](https://github.com/google-research/bert) language mo
 Steps to follow
 
 ```
-Put 2 sentences in <strong>sentences.txt</strong>
+Put 2 sentences in <strong>sentencestxt</strong>  **sentencestxt**
 
 ```
 
