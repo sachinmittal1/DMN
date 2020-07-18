@@ -12,9 +12,9 @@ Alternatively, You can use run.sh which takes apache-maven path argument
 
 
 ```
-
+### using run.sh
 ```
-### $ ./run.sh /Users/nidhi/Downloads/apache-maven-3.6.3/bin
+ $ ./run.sh /Users/nidhi/Downloads/apache-maven-3.6.3/bin
 
 Sent1 =  "On June 10 , the ship 's owners had published an advertisement on the Internet , offering the explosives for sale ."
 
